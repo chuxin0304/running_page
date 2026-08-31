@@ -5,56 +5,116 @@
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
   <trk>
-    <name>Running 2026/8/17, 19:26</name>
+    <name>Activity 2026/8/17, 19:26</name>
     <type>running</type>
     <trkseg>
       <trkpt lat="40.06985134848136" lon="116.34821477398765">
         <ele>42.7</ele>
         <time>2026-08-17T11:26:25.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06985098559651" lon="116.34821096362296">
         <ele>42.8</ele>
         <time>2026-08-17T11:26:26.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06985055986007" lon="116.34820627785757">
         <ele>42.8</ele>
         <time>2026-08-17T11:26:27.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06985005235409" lon="116.34820019263645">
         <ele>42.9</ele>
         <time>2026-08-17T11:26:28.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06984945726661" lon="116.34819211296431">
         <ele>42.9</ele>
         <time>2026-08-17T11:26:29.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06984877977876" lon="116.34818126231235">
         <ele>42.9</ele>
         <time>2026-08-17T11:26:30.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06984804069589" lon="116.34816663940639">
         <ele>43.0</ele>
         <time>2026-08-17T11:26:31.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06984728502968" lon="116.34814706682872">
         <ele>43.0</ele>
         <time>2026-08-17T11:26:32.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06984649697361" lon="116.34812247140677">
         <ele>43.1</ele>
         <time>2026-08-17T11:26:33.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06984565932581" lon="116.34809286966477">
         <ele>43.1</ele>
         <time>2026-08-17T11:26:34.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.069844864873346" lon="116.34805859537039">
         <ele>43.2</ele>
         <time>2026-08-17T11:26:35.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.069844248965964" lon="116.34802113260511">
         <ele>43.2</ele>
         <time>2026-08-17T11:26:36.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>138</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06984387963454" lon="116.3479819160109">
         <ele>43.2</ele>
@@ -1147,172 +1207,272 @@
       <trkpt lat="40.06995048209651" lon="116.33950383751626">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:08.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.069952288765585" lon="116.33947213777243">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:09.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06995317963992" lon="116.33944040431757">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:10.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06995340053715" lon="116.3394090192507">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:11.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.069953267652956" lon="116.33937829370181">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:12.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.069952859994345" lon="116.33934810892647">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:13.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.069952288738286" lon="116.33931820293152">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:14.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06995203984429" lon="116.33928827230886">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:15.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.069952493337" lon="116.33925827546165">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:16.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06995372351938" lon="116.33922834892532">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:17.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.069955470538886" lon="116.33919854759004">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:18.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>155</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06995752760362" lon="116.33916865705451">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:19.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>155</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06995962982042" lon="116.33913842289927">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:20.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>155</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06996132987789" lon="116.33910787113791">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:21.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>155</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06996230922837" lon="116.33907706761414">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:22.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>155</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.069962820752984" lon="116.33904592503264">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:23.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>155</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06996365096482" lon="116.33901444827166">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:24.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>155</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.069965430015515" lon="116.33898279482607">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:25.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>155</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06996864769056" lon="116.33895119459255">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:26.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>155</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0699738330403" lon="116.33892015055704">
         <ele>44.7</ele>
         <time>2026-08-17T11:31:27.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>155</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06998143770983" lon="116.33889025523904">
         <ele>44.6</ele>
         <time>2026-08-17T11:31:28.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.06999168692449" lon="116.33886204606954">
         <ele>44.6</ele>
         <time>2026-08-17T11:31:29.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07000452576451" lon="116.33883602262567">
         <ele>44.6</ele>
         <time>2026-08-17T11:31:30.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07001979053683" lon="116.33881232130838">
         <ele>44.6</ele>
         <time>2026-08-17T11:31:31.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07003742512132" lon="116.33879141983135">
         <ele>44.6</ele>
         <time>2026-08-17T11:31:32.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07005740604414" lon="116.33877422806819">
         <ele>44.6</ele>
         <time>2026-08-17T11:31:33.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07007938046849" lon="116.33876149169531">
         <ele>44.6</ele>
         <time>2026-08-17T11:31:34.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07010293440938" lon="116.33875394285813">
         <ele>44.5</ele>
         <time>2026-08-17T11:31:35.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07012767572262" lon="116.33875163496046">
         <ele>44.5</ele>
         <time>2026-08-17T11:31:36.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.070153230160216" lon="116.33875358692306">
         <ele>44.5</ele>
         <time>2026-08-17T11:31:37.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>155</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.070179422109526" lon="116.3387583068384">
         <ele>44.5</ele>
@@ -2425,172 +2585,272 @@
       <trkpt lat="40.07546256949683" lon="116.33779310387649">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:15.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075477829428586" lon="116.33779246237185">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:16.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07549458044056" lon="116.33779274252167">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:17.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07551297686361" lon="116.33779373582239">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:18.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07553298305017" lon="116.33779591485353">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:19.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07555355719783" lon="116.33780002776308">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:20.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07557443599498" lon="116.3378062402799">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:21.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07559544844011" lon="116.33781367385312">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:22.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07561659611099" lon="116.337821417741">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:23.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075638232691205" lon="116.33782883209189">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:24.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07566071512942" lon="116.33783539477099">
         <ele>45.9</ele>
         <time>2026-08-17T11:36:25.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>159</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07568388570192" lon="116.33784135933709">
         <ele>45.9</ele>
         <time>2026-08-17T11:36:26.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>159</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07570813810175" lon="116.33784729925613">
         <ele>45.9</ele>
         <time>2026-08-17T11:36:27.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>159</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07573514143046" lon="116.33785343485778">
         <ele>45.9</ele>
         <time>2026-08-17T11:36:28.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>159</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075764677445" lon="116.33785906726604">
         <ele>45.9</ele>
         <time>2026-08-17T11:36:29.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>159</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07579566204496" lon="116.33786329272297">
         <ele>45.9</ele>
         <time>2026-08-17T11:36:30.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>159</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07582728846498" lon="116.3378658634052">
         <ele>45.9</ele>
         <time>2026-08-17T11:36:31.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>159</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07585912728879" lon="116.3378669925144">
         <ele>45.9</ele>
         <time>2026-08-17T11:36:32.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>159</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075890832772565" lon="116.33786702861774">
         <ele>45.9</ele>
         <time>2026-08-17T11:36:33.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>159</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07592219762019" lon="116.33786621559169">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:34.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>159</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0759531425037" lon="116.33786459966508">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:36.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07598357162189" lon="116.3378621650362">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:37.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.076013728795836" lon="116.33785910076165">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:38.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07604377654702" lon="116.33785601410206">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:39.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0760735313038" lon="116.33785357911255">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:40.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07610288894097" lon="116.33785194961176">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:41.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0761320315707" lon="116.3378507579681">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:42.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07616107253992" lon="116.33784949758079">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:43.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07618989177268" lon="116.3378478682093">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:44.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07621851620264" lon="116.33784572088625">
         <ele>45.8</ele>
         <time>2026-08-17T11:36:45.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>159</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07624715511654" lon="116.33784304798188">
         <ele>45.8</ele>
@@ -3679,172 +3939,272 @@
       <trkpt lat="40.07547291399428" lon="116.33740121771102">
         <ele>46.3</ele>
         <time>2026-08-17T11:41:17.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07547344247625" lon="116.33743834112664">
         <ele>46.3</ele>
         <time>2026-08-17T11:41:18.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0754749275284" lon="116.33747507930904">
         <ele>46.3</ele>
         <time>2026-08-17T11:41:19.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07547779164326" lon="116.33751123542312">
         <ele>46.3</ele>
         <time>2026-08-17T11:41:20.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0754823237542" lon="116.33754666319858">
         <ele>46.3</ele>
         <time>2026-08-17T11:41:21.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548873058518" lon="116.33758119608366">
         <ele>46.3</ele>
         <time>2026-08-17T11:41:22.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07549735671036" lon="116.33761463517226">
         <ele>46.3</ele>
         <time>2026-08-17T11:41:23.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07550836064877" lon="116.33764676319633">
         <ele>46.3</ele>
         <time>2026-08-17T11:41:24.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075521488179625" lon="116.33767737661834">
         <ele>46.3</ele>
         <time>2026-08-17T11:41:25.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07553639889288" lon="116.33770632327179">
         <ele>46.3</ele>
         <time>2026-08-17T11:41:26.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075552921573056" lon="116.33773350278018">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:27.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>162</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075571125648274" lon="116.33775887210886">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:28.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>162</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0755909829326" lon="116.3377824450771">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:29.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>162</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07561208777371" lon="116.33780431029335">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:30.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>162</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075633983244266" lon="116.33782437855149">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:31.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>162</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07565649176215" lon="116.33784251785825">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:32.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>162</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075679567093886" lon="116.3378587699609">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:33.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>162</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075703185716094" lon="116.33787305855142">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:34.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>162</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075727445546924" lon="116.33788523475931">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:35.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>162</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07575242811013" lon="116.33789508828674">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:36.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>162</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07577807569549" lon="116.33790248707912">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:37.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07580420275056" lon="116.33790753132834">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:38.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07583060223125" lon="116.3379104160955">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:39.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075857030011996" lon="116.33791115701796">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:40.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07588346886313" lon="116.33790970709019">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:41.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07591001095025" lon="116.33790639240776">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:42.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07593654986595" lon="116.33790172285279">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:43.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07596285066129" lon="116.33789644121931">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:44.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075988815541635" lon="116.3378913148814">
         <ele>46.2</ele>
         <time>2026-08-17T11:41:45.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07601448635668" lon="116.33788657328857">
         <ele>46.1</ele>
         <time>2026-08-17T11:41:46.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>162</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07603992846252" lon="116.33788182646514">
         <ele>46.1</ele>
@@ -4929,172 +5289,272 @@
       <trkpt lat="40.07573777821725" lon="116.33692329836683">
         <ele>46.0</ele>
         <time>2026-08-17T11:46:17.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075712069815914" lon="116.33692677967578">
         <ele>46.0</ele>
         <time>2026-08-17T11:46:18.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07568652987393" lon="116.33693201791624">
         <ele>46.0</ele>
         <time>2026-08-17T11:46:19.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07566152245715" lon="116.33693965656308">
         <ele>46.0</ele>
         <time>2026-08-17T11:46:20.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07563734478299" lon="116.33695002234428">
         <ele>46.0</ele>
         <time>2026-08-17T11:46:21.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075614190591224" lon="116.33696344130098">
         <ele>46.0</ele>
         <time>2026-08-17T11:46:22.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07559231701829" lon="116.33698015740988">
         <ele>46.0</ele>
         <time>2026-08-17T11:46:23.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07557225527579" lon="116.33700040898123">
         <ele>46.0</ele>
         <time>2026-08-17T11:46:24.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075554544462115" lon="116.33702448177445">
         <ele>46.0</ele>
         <time>2026-08-17T11:46:25.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075539295556105" lon="116.33705216938294">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:26.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075526342630056" lon="116.33708271822327">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:27.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>166</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07551544687272" lon="116.33711538196034">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:28.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>166</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07550645963262" lon="116.33714958217276">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:29.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>166</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07549941317876" lon="116.3371847966472">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:30.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>166</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07549400162226" lon="116.33722056586542">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:31.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>166</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548972952197" lon="116.33725662335307">
         <ele>46.2</ele>
         <time>2026-08-17T11:46:32.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>166</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548623983903" lon="116.33729291555434">
         <ele>46.2</ele>
         <time>2026-08-17T11:46:33.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>166</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548324041213" lon="116.33732944800883">
         <ele>46.2</ele>
         <time>2026-08-17T11:46:34.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>166</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075480775044454" lon="116.33736624617075">
         <ele>46.2</ele>
         <time>2026-08-17T11:46:35.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>166</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075479265471316" lon="116.33740327725155">
         <ele>46.2</ele>
         <time>2026-08-17T11:46:36.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>166</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07547940211636" lon="116.33744033934187">
         <ele>46.2</ele>
         <time>2026-08-17T11:46:37.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075481818547004" lon="116.33747718714065">
         <ele>46.2</ele>
         <time>2026-08-17T11:46:38.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075486569939656" lon="116.33751349992104">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:39.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075493188841165" lon="116.33754903193493">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:40.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075501358856556" lon="116.33758374307426">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:41.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075511059906226" lon="116.33761761579557">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:42.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07552231413784" lon="116.33765068420198">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:43.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075535249479735" lon="116.33768282964444">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:44.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075550018786025" lon="116.33771336577853">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:45.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075566700407535" lon="116.3377415824054">
         <ele>46.1</ele>
         <time>2026-08-17T11:46:46.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>166</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07558532778627" lon="116.33776721067449">
         <ele>46.1</ele>
@@ -6179,172 +6639,272 @@
       <trkpt lat="40.07573878189308" lon="116.33692852934313">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:17.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07571222487553" lon="116.33693353720909">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:18.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07568639038749" lon="116.3369415910228">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:19.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07566154483793" lon="116.33695315935735">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:20.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07563796249387" lon="116.33696845033256">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:21.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0756159664737" lon="116.33698759882118">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:22.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07559589615805" lon="116.33701036729778">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:23.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07557781516436" lon="116.33703601988226">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:24.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075561533200606" lon="116.33706370805761">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:25.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07554677634109" lon="116.33709291958432">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:26.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07553331507667" lon="116.33712345816014">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:27.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>169</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07552108602715" lon="116.33715521985661">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:28.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>169</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07551018248533" lon="116.33718804022877">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:29.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>169</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075500723111006" lon="116.33722164296083">
         <ele>45.8</ele>
         <time>2026-08-17T11:51:30.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>169</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07549276023403" lon="116.33725579185914">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:31.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>169</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075486424555024" lon="116.33729045066377">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:32.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>169</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548185933925" lon="116.33732567772532">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:33.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>169</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07547896665359" lon="116.33736140642635">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:34.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>169</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07547757520067" lon="116.33739742852364">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:35.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>169</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07547767419695" lon="116.33743355358932">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:36.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>169</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07547920048197" lon="116.33746970824649">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:37.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548192809637" lon="116.33750588847136">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:38.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0754853662546" lon="116.33754205285356">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:39.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548929254055" lon="116.33757797691271">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:40.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07549451792713" lon="116.33761320501023">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:41.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07550211979106" lon="116.33764718788849">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:42.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075512582750754" lon="116.3376795107794">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:43.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075525947114286" lon="116.33770990313724">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:44.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07554199862001" lon="116.33773821219152">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:45.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07556031319289" lon="116.33776444110691">
         <ele>45.7</ele>
         <time>2026-08-17T11:51:46.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>169</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075580389069145" lon="116.33778868928923">
         <ele>45.7</ele>
@@ -7429,172 +7989,272 @@
       <trkpt lat="40.07555635674955" lon="116.33704438764374">
         <ele>44.9</ele>
         <time>2026-08-17T11:56:17.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07553883588704" lon="116.33707139823046">
         <ele>44.9</ele>
         <time>2026-08-17T11:56:18.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07552300398806" lon="116.33710101140855">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:19.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075509153425834" lon="116.33713264930505">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:20.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07549754438091" lon="116.33716591051007">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:21.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548816110793" lon="116.33720035760861">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:22.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548057303678" lon="116.3372357160651">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:23.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075474258683315" lon="116.33727183033766">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:24.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07546909172734" lon="116.33730853815484">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:25.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07546546553675" lon="116.3373455487971">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:26.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07546383274478" lon="116.33738257100441">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:27.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>172</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07546445193528" lon="116.33741941610073">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:28.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>172</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075467435868546" lon="116.3374559259911">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:29.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>172</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0754728344869" lon="116.33749200727388">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:30.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>172</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548064172519" lon="116.33752763009694">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:31.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>172</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07549059536451" lon="116.33756275024065">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:32.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>172</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07550230117622" lon="116.33759731916268">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:33.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>172</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07551548588996" lon="116.33763115732816">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:34.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>172</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075530027053894" lon="116.33766392506689">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:35.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>172</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075545724903016" lon="116.33769527502349">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:36.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>172</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07556236005307" lon="116.33772497987759">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:37.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07557987056965" lon="116.33775296286409">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:38.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07559823004887" lon="116.33777917882647">
         <ele>45.0</ele>
         <time>2026-08-17T11:56:39.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07561741108764" lon="116.33780362076945">
         <ele>44.9</ele>
         <time>2026-08-17T11:56:40.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07563728169439" lon="116.33782644580845">
         <ele>44.9</ele>
         <time>2026-08-17T11:56:41.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07565772282273" lon="116.33784782695638">
         <ele>44.9</ele>
         <time>2026-08-17T11:56:42.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075678702167004" lon="116.33786755619946">
         <ele>44.9</ele>
         <time>2026-08-17T11:56:43.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07570032138396" lon="116.33788497303951">
         <ele>44.9</ele>
         <time>2026-08-17T11:56:44.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075722858347795" lon="116.33789940013963">
         <ele>44.9</ele>
         <time>2026-08-17T11:56:45.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075746487146226" lon="116.33791042100086">
         <ele>44.9</ele>
         <time>2026-08-17T11:56:46.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>172</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075770904803065" lon="116.33791809772046">
         <ele>44.9</ele>
@@ -8679,172 +9339,272 @@
       <trkpt lat="40.07551360826083" lon="116.3372097204986">
         <ele>45.4</ele>
         <time>2026-08-17T12:01:17.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07550387790318" lon="116.33724357413486">
         <ele>45.4</ele>
         <time>2026-08-17T12:01:18.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07549617311518" lon="116.3372786384498">
         <ele>45.5</ele>
         <time>2026-08-17T12:01:19.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07549026334684" lon="116.33731460464165">
         <ele>45.5</ele>
         <time>2026-08-17T12:01:20.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075485921020885" lon="116.33735107084273">
         <ele>45.5</ele>
         <time>2026-08-17T12:01:21.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548306968859" lon="116.33738783051396">
         <ele>45.6</ele>
         <time>2026-08-17T12:01:22.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07548157896052" lon="116.337424806388">
         <ele>45.6</ele>
         <time>2026-08-17T12:01:23.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075481465096594" lon="116.33746176741656">
         <ele>45.6</ele>
         <time>2026-08-17T12:01:24.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075482955625496" lon="116.33749840343242">
         <ele>45.6</ele>
         <time>2026-08-17T12:01:25.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075486415818055" lon="116.33753448971764">
         <ele>45.6</ele>
         <time>2026-08-17T12:01:25.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07549230062279" lon="116.33756978587262">
         <ele>45.6</ele>
         <time>2026-08-17T12:01:26.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075501000904666" lon="116.33760397673346">
         <ele>45.6</ele>
         <time>2026-08-17T12:01:27.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0755126264364" lon="116.33763677293085">
         <ele>45.6</ele>
         <time>2026-08-17T12:01:28.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075527028191395" lon="116.33766782216318">
         <ele>45.5</ele>
         <time>2026-08-17T12:01:29.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075543973784725" lon="116.33769688306629">
         <ele>45.5</ele>
         <time>2026-08-17T12:01:30.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07556305071802" lon="116.33772387103413">
         <ele>45.5</ele>
         <time>2026-08-17T12:01:31.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07558360230366" lon="116.33774893483233">
         <ele>45.4</ele>
         <time>2026-08-17T12:01:32.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075605088301444" lon="116.33777233695609">
         <ele>45.4</ele>
         <time>2026-08-17T12:01:33.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07562735202984" lon="116.33779413017746">
         <ele>45.4</ele>
         <time>2026-08-17T12:01:34.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07565049424633" lon="116.33781409513978">
         <ele>45.3</ele>
         <time>2026-08-17T12:01:35.999Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07567467624628" lon="116.33783171674564">
         <ele>45.3</ele>
         <time>2026-08-17T12:01:36.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07569992097241" lon="116.3378467492829">
         <ele>45.3</ele>
         <time>2026-08-17T12:01:37.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075726044321705" lon="116.33785940960708">
         <ele>45.2</ele>
         <time>2026-08-17T12:01:38.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075752799919265" lon="116.33786996402334">
         <ele>45.2</ele>
         <time>2026-08-17T12:01:39.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07578007809888" lon="116.33787851457873">
         <ele>45.1</ele>
         <time>2026-08-17T12:01:40.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07580785012924" lon="116.33788509884594">
         <ele>45.1</ele>
         <time>2026-08-17T12:01:41.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075835948441224" lon="116.33788943422155">
         <ele>45.0</ele>
         <time>2026-08-17T12:01:42.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07586412871714" lon="116.33789126272137">
         <ele>45.0</ele>
         <time>2026-08-17T12:01:43.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07589227708617" lon="116.33789081595098">
         <ele>45.0</ele>
         <time>2026-08-17T12:01:44.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.075920429743626" lon="116.33788843325524">
         <ele>44.9</ele>
         <time>2026-08-17T12:01:45.999Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07594865065779" lon="116.33788484214162">
         <ele>44.9</ele>
@@ -8869,96 +9629,146 @@
       <trkpt lat="40.07608778788327" lon="116.33787359013859">
         <ele>44.7</ele>
         <time>2026-08-17T12:01:52.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.076115737000364" lon="116.3378702567323">
         <ele>44.7</ele>
         <time>2026-08-17T12:01:53.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.0761438432835" lon="116.33786623093577">
         <ele>44.7</ele>
         <time>2026-08-17T12:01:54.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07617208434282" lon="116.3378616341272">
         <ele>44.6</ele>
         <time>2026-08-17T12:01:55.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07620036454506" lon="116.33785641791778">
         <ele>44.6</ele>
         <time>2026-08-17T12:01:56.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07622872855038" lon="116.33785056289173">
         <ele>44.6</ele>
         <time>2026-08-17T12:01:57.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07625730089738" lon="116.33784432090285">
         <ele>44.5</ele>
         <time>2026-08-17T12:01:58.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07628614131141" lon="116.3378380235909">
         <ele>44.5</ele>
         <time>2026-08-17T12:01:59.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07631520234275" lon="116.33783184419329">
         <ele>44.5</ele>
         <time>2026-08-17T12:02:00.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07634438215574" lon="116.33782610922222">
         <ele>44.5</ele>
         <time>2026-08-17T12:02:01.000Z</time>
+        <extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07637341551713" lon="116.33782056846938">
         <ele>44.5</ele>
         <time>2026-08-17T12:02:02.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.076402139653545" lon="116.33781453601354">
         <ele>44.4</ele>
         <time>2026-08-17T12:02:03.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07643066961599" lon="116.337807982713">
         <ele>44.4</ele>
         <time>2026-08-17T12:02:04.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07645908506387" lon="116.337801252093">
         <ele>44.4</ele>
         <time>2026-08-17T12:02:05.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.07648721878289" lon="116.33779519333609">
         <ele>44.4</ele>
         <time>2026-08-17T12:02:06.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>
       <trkpt lat="40.076514893889325" lon="116.33779059676013">
         <ele>44.4</ele>
         <time>2026-08-17T12:02:07.000Z</time>
         <extensions>
-  <gpxtpx:TrackPointExtension>
-    <gpxtpx:hr>173</gpxtpx:hr>
-  </gpxtpx:TrackPointExtension>
-</extensions>
+          <gpxtpx:TrackPointExtension>
+            <gpxtpx:hr>173</gpxtpx:hr>
+          </gpxtpx:TrackPointExtension>
+        </extensions>
       </trkpt>    </trkseg>
   </trk>
 </gpx>

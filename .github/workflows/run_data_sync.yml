@@ -27,7 +27,7 @@ on:
 
 env:
   # 数据源类型设置为小米
-  RUN_TYPE: xiaomi
+  RUN_TYPE: only_gpx
   # 修改为你的名字/昵称
   ATHLETE: chuxin0304
   TITLE: chuxin0304 Running
